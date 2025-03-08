@@ -1,6 +1,6 @@
 # 🍽️ YumFusion - Smart Food Ordering App
 
-![YumFusion Icon](/Users/vipulpawar/Desktop/flutter_projects/foodapp/lib/images/icon.png)  
+![YumFusion Icon](lib/images/icon.png)  
 *A seamless food ordering experience at your fingertips!*  
 
 ## 🚀 Features
