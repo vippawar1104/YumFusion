@@ -15,7 +15,7 @@
 
 | Home Page | Menu Page | Cart Page |
 |-----------|----------|----------|
-| ![Home](path/to/home_screen.png) | ![Menu](path/to/menu_screen.png) | ![Cart](path/to/cart_screen.png) |
+| ![Home](Homescreen.png) | ![Menu](path/to/menu_screen.png) | ![Cart](path/to/cart_screen.png) |
 
 | Register Page | Payment Page | SignIn Page |
 |---------------|-------------|-------------|
