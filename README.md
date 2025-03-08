@@ -1,16 +1,58 @@
-# foodapp
+# 🍽️ YumFusion - Smart Food Ordering App
 
-A new Flutter project.
+![YumFusion Icon](path/to/your/icon.png)  
+*A seamless food ordering experience at your fingertips!*  
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- ✅ **User Authentication** (Login/Signup with Firebase)
+- ✅ **Categorized Menu** (Burgers, Salads, Sides, Drinks, Desserts)
+- ✅ **Cart & Order Tracking** (Real-time updates stored in Firebase)
+- ✅ **UPI Payments & Receipts** (Secure & hassle-free transactions)
+- ✅ **Dark Mode** (Enhanced user experience)
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Home Page | Menu Page | Cart Page |
+|-----------|----------|----------|
+| ![Home](path/to/home_screen.png) | ![Menu](path/to/menu_screen.png) | ![Cart](path/to/cart_screen.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Order Tracking | Payment Page | Profile Page |
+|---------------|-------------|-------------|
+| ![Order Tracking](path/to/order_tracking.png) | ![Payment](path/to/payment_screen.png) | ![Profile](path/to/profile_screen.png) |
+
+## 🎥 Demo Videos
+
+- [Demo Video 1](path/to/demo_video1.mp4) - Overview of the app
+- [Demo Video 2](path/to/demo_video2.mp4) - Order placement & payment
+
+## 🛠️ Tech Stack
+
+- **Framework:** Flutter
+- **Backend & Database:** Firebase
+- **Authentication:** Firebase Auth
+- **Payments:** UPI Integration
+
+## 📲 Installation & Setup
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/yumfusion.git
+   cd yumfusion
+   ```
+2. **Install Dependencies:**
+   ```bash
+   flutter pub get
+   ```
+3. **Run the App:**
+   ```bash
+   flutter run
+   ```
+
+## 🐜 License
+
+This project is licensed under the **MIT License**. Feel free to use and modify it.
+
+---
+
+🌟 **Like this project? Give it a star on GitHub!** ⭐
