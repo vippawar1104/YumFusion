@@ -1,6 +1,7 @@
 # 🍽️ YumFusion - Smart Food Ordering App
 
-![YumFusion Icon](lib/images/icon.png)  
+<img src="lib/images/icon.png" alt="YumFusion Icon" width="150">
+
 *A seamless food ordering experience at your fingertips!*  
 
 ## 🚀 Features
@@ -13,17 +14,38 @@
 
 ## 📸 Screenshots
 
-| Home Page | Menu Page | Cart Page |
-|-----------|----------|----------|
-| ![Home](Homescreen.png) | ![Menu](path/to/menu_screen.png) | ![Cart](path/to/cart_screen.png) |
+<table>
+  <tr>
+    <th>Home Page</th>
+    <th>Menu Page</th>
+    <th>Cart Page</th>
+  </tr>
+  <tr>
+    <td><img src="Homescreen.png" alt="Home" width="250"></td>
+    <td><img src="path/to/menu_screen.png" alt="Menu" width="250"></td>
+    <td><img src="path/to/cart_screen.png" alt="Cart" width="250"></td>
+  </tr>
+</table>
 
-| Register Page | Payment Page | SignIn Page |
-|---------------|-------------|-------------|
-| ![Order Tracking](path/to/order_tracking.png) | ![Payment](path/to/payment_screen.png) | ![Profile](path/to/profile_screen.png) |
+<table>
+  <tr>
+    <th>Register Page</th>
+    <th>Payment Page</th>
+    <th>SignIn Page</th>
+  </tr>
+  <tr>
+    <td><img src="path/to/order_tracking.png" alt="Register" width="250"></td>
+    <td><img src="path/to/payment_screen.png" alt="Payment" width="250"></td>
+    <td><img src="path/to/profile_screen.png" alt="SignIn" width="250"></td>
+  </tr>
+</table>
 
-| **AI YUMI - Chat Assistant** |
-|------------------------------|
-| ![YUMI Chat](path/to/yumi_chat_screen.png) |
+### 🤖 AI YUMI - Chat Assistant
+
+<p align="center">
+  <img src="path/to/yumi_chat_screen.png" alt="YUMI Chat" width="300">
+</p>
+
 ## 🎥 Demo Videos
 
 - [Demo Video 1](path/to/demo_video1.mp4) - Overview of the app
@@ -42,6 +64,7 @@
    ```bash
    git clone https://github.com/yourusername/yumfusion.git
    cd yumfusion
+   
    ```
 2. **Install Dependencies:**
    ```bash
