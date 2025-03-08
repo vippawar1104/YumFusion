@@ -17,7 +17,7 @@
 |-----------|----------|----------|
 | ![Home](path/to/home_screen.png) | ![Menu](path/to/menu_screen.png) | ![Cart](path/to/cart_screen.png) |
 
-| Order Tracking | Payment Page | SignUp Page |
+| Register Page | Payment Page | SignIn Page |
 |---------------|-------------|-------------|
 | ![Order Tracking](path/to/order_tracking.png) | ![Payment](path/to/payment_screen.png) | ![Profile](path/to/profile_screen.png) |
 
