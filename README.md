@@ -21,7 +21,7 @@
     <th>Cart Page</th>
   </tr>
   <tr>
-    <td><img src="Homescreen.png" alt="Home" width="250"></td>
+    <td><img src="Home.png" alt="Home" width="250"></td>
     <td><img src="Menu.png" alt="Menu" width="250"></td>
     <td><img src="Cart.png" alt="Cart" width="250"></td>
   </tr>
@@ -43,7 +43,7 @@
 ### 🤖 AI YUMI - Chat Assistant
 
 <p align="center">
-  <img src="path/to/yumi_chat_screen.png" alt="YUMI Chat" width="300">
+  <img src="AI.png" alt="YUMI Chat" width="300">
 </p>
 
 ## 🎥 Demo Videos
