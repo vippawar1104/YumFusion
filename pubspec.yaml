@@ -1,0 +1,49 @@
+name: foodapp
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.0 
+  sunmi_printer: ^1.0.0
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  collection: ^1.18.0
+  flutter_credit_card: ^3.0.7
+  firebase_core: ^3.9.0
+  firebase_auth: ^5.3.4
+  cloud_firestore: ^5.6.0
+  google_maps_flutter: ^2.5.0
+  location: ^8.0.0
+  url_launcher: ^6.3.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "lib/images/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/images/burgers/
+    - lib/images/sides/
+    - lib/images/salads/
+    - lib/images/drinks/
+    - lib/images/desserts/
+    - lib/images/google_pay.png
+    - lib/images/phonepe.png
+    - lib/images/paytm.png

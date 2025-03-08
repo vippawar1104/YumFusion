@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54995648995",
+    "project_id": "yumfusion-99a24",
+    "storage_bucket": "yumfusion-99a24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54995648995:android:225484499d99cf90d7a0d6",
+        "android_client_info": {
+          "package_name": "com.vipulpawar.YumFusion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIv3ZBe4tzT0uh5RTiLam846QMsqUPN2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54995648995:android:a65993a4ca100fe5d7a0d6",
+        "android_client_info": {
+          "package_name": "com.vipulpawar.yumfusion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIv3ZBe4tzT0uh5RTiLam846QMsqUPN2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
