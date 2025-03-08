@@ -22,8 +22,8 @@
   </tr>
   <tr>
     <td><img src="Homescreen.png" alt="Home" width="250"></td>
-    <td><img src="path/to/menu_screen.png" alt="Menu" width="250"></td>
-    <td><img src="path/to/cart_screen.png" alt="Cart" width="250"></td>
+    <td><img src="Menu.png" alt="Menu" width="250"></td>
+    <td><img src="Cart.png" alt="Cart" width="250"></td>
   </tr>
 </table>
 
@@ -34,9 +34,9 @@
     <th>SignIn Page</th>
   </tr>
   <tr>
-    <td><img src="path/to/order_tracking.png" alt="Register" width="250"></td>
-    <td><img src="path/to/payment_screen.png" alt="Payment" width="250"></td>
-    <td><img src="path/to/profile_screen.png" alt="SignIn" width="250"></td>
+    <td><img src="Register.png" alt="Register" width="250"></td>
+    <td><img src="Payment.png" alt="Payment" width="250"></td>
+    <td><img src="Signin.png" alt="SignIn" width="250"></td>
   </tr>
 </table>
 
