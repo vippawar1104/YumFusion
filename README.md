@@ -1,6 +1,6 @@
 # 🍽️ YumFusion - Smart Food Ordering App
 
-![YumFusion Icon](lib/images/icon.png)  
+![YumFusion Icon](path/to/your/icon.png)  
 *A seamless food ordering experience at your fingertips!*  
 
 ## 🚀 Features
@@ -17,10 +17,13 @@
 |-----------|----------|----------|
 | ![Home](path/to/home_screen.png) | ![Menu](path/to/menu_screen.png) | ![Cart](path/to/cart_screen.png) |
 
-| Order Tracking | Payment Page | Signup Page |
+| Order Tracking | Payment Page | Profile Page |
 |---------------|-------------|-------------|
 | ![Order Tracking](path/to/order_tracking.png) | ![Payment](path/to/payment_screen.png) | ![Profile](path/to/profile_screen.png) |
 
+| **AI YUMI - Chat Assistant** |
+|------------------------------|
+| ![YUMI Chat](path/to/yumi_chat_screen.png) |
 ## 🎥 Demo Videos
 
 - [Demo Video 1](path/to/demo_video1.mp4) - Overview of the app
