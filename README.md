@@ -48,8 +48,8 @@
 
 ## 🎥 Demo Videos
 
-- [Demo Video 1](path/to/demo_video1.mp4) - Overview of the app
-- [Demo Video 2](path/to/demo_video2.mp4) - Order placement & payment
+- [Demo Video 1](https://www.youtube.com/watch?v=xhc25d2YjYc&t=41s) - Overview of the app
+- [Demo Video 2](https://www.youtube.com/watch?v=nhySdaRNr6I) - Order placement & tracking of the order
 
 ## 🛠️ Tech Stack
 
