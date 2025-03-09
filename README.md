@@ -62,8 +62,8 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/yumfusion.git
-   cd yumfusion
+   git clone https://github.com/vippawar1104/YumFusion.git
+   cd YumFusion
    
    ```
 2. **Install Dependencies:**
