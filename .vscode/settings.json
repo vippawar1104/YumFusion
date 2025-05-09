@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/Users/vipulpawar/Desktop/flutter_projects/foodapp/linux"
+    "cmake.sourceDirectory": "/Users/vipulpawar/Desktop/flutter_projects/foodapp/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
